@@ -7,8 +7,8 @@ I'm a software engineer who builds reliable, maintainable, and delightful produc
 - 🌱 I’m learning: advanced system design, observability, and TypeScript patterns
 - 💬 Ask me about: backend systems, APIs, clean architecture, testing
 - 👯 I’m open to: collaboration, mentorship, and interesting contract work
-- 📫 How to reach me: baraa.sameh@example.com (or contact via GitHub)
-- ⚡ Fun fact: I love turning messy ideas into simple, testable code
+- 📫 How to reach me: baraa.sameh.a@gamil.com 
+
 
 Skills
 - Languages: JavaScript/TypeScript, Python, Go
