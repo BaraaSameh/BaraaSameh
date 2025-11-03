@@ -29,7 +29,7 @@ Other: HTML, CSS, REST APIs, GraphQL
 ---
 
 ## 📌 Featured Projects
-- [🔗 MCSEI](https://github.com/BaraaSameh/MCSEI) – A smart e-commerce platform with clean architecture
+- [🔗 MCSEI](https://github.com/BaraaSameh/MCSEI-DesktopApplication) – A smart e-commerce platform with clean architecture
 
 
 ---
