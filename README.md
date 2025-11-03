@@ -52,7 +52,7 @@
  📬 Let's Connect
 
 - 📧 Email: baraa.sameh.a@gmail.com  
-- 💼 LinkedIn: [https://www.linkedin.com/in/baraa-sameh-893102368/](#)  
+- 💼 Whatsapp:+(20)1007198527
 - 🧠 Languages: Arabic 🇪🇬 & English 🇬🇧
 
 ---
