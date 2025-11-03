@@ -2,7 +2,7 @@
 
 I'm a software engineer who builds reliable, maintainable, and delightful products. I enjoy solving real-world problems, collaborating with cross-functional teams, and continuously learning new tools and best practices.
 
-- 🔭 I’m currently working on: [project-name](https://github.com/BaraaSameh/Final_Project_DEPI
+- 🔭 I’m currently working on: [E-Commerce project ](https://github.com/BaraaSameh/Final_Project_DEPI
 )
 - 🌱 I’m learning: advanced system design, observability, and TypeScript patterns
 - 💬 Ask me about: backend systems, APIs, clean architecture, testing
@@ -18,7 +18,7 @@ Skills
 - Testing: Jest, pytest, integration tests
 
 Pinned Projects
-- 🔸 [project-name](https://github.com/BaraaSameh/MCSEI-DesktopApplication
+- 🔸 [MCSEI](https://github.com/BaraaSameh/MCSEI-DesktopApplication
 ) 
 
 
