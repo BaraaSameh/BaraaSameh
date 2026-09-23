@@ -19,6 +19,7 @@
   <li>💻 Results-driven <b>Software Engineer</b> specializing in the .NET ecosystem (C#, ASP.NET Core) and Clean Architecture.</li>
   <li>🏫 <b>Full-Stack .NET Instructor at Next Academy</b>, mentoring students in building scalable web applications and mastering RESTful APIs.</li>
   <li>🛠️ Experienced in freelance backend development (Pulvent), refactoring legacy systems, optimizing SQL Server, and ensuring high-availability deployments.</li>
+  <li>👥 Former <b>Backend Team Head at GDG Banha</b> and Head of Operations & HR at GDSC, with strong leadership and community experience.</li>
   <li>🎓 Computer Science graduate from El Shorouk Academy with a strong foundation in software engineering principles.</li>
   <li>📍 Based in <b>Cairo, Egypt</b> — Open to Full-time, Remote, and Freelance opportunities.</li>
 </ul>
@@ -65,6 +66,17 @@
 
 ---
 
+### 📜 Certificates & Achievements
+
+<div align="left" style="font-size: 15px; line-height: 1.7;">
+<ul>
+  <li>🎖️ <b>.NET Full-Stack & Leadership Certificates</b> — Digital Egypt Pioneers Initiative (DEPI).</li>
+  <li>📜 <b>IBM Software Engineering Professional Certificate</b> (In progress).</li>
+</ul>
+</div>
+
+---
+
 ### 📈 GitHub Stats
 
 <div align="center">
@@ -74,6 +86,10 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BaraaSameh&theme=tokyonight&hide_border=true&background=1a1b26" width="100%" />
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BaraaSameh&theme=tokyo-night" width="100%" />
 </div>
 
 ---
