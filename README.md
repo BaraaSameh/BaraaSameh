@@ -14,28 +14,28 @@
 
 ### 🎯 About Me
 
-<table align="center">
-  <tr>
-    <td>
-      <ul>
-        <li>💻 Results-driven <b>Software Engineer</b> specializing in the .NET ecosystem (C#, ASP.NET Core) and Clean Architecture.</li>
-        <li>🏫 <b>Full-Stack .NET Instructor at Next Academy</b>, mentoring students in building scalable web applications and mastering RESTful APIs.</li>
-        <li>🛠️ Experienced in freelance backend development (Pulvent), refactoring legacy systems, optimizing SQL Server, and ensuring high-availability deployments.</li>
-        <li>🎓 Computer Science graduate from El Shorouk Academy with a strong foundation in software engineering principles.</li>
-        <li>📍 Based in <b>Cairo, Egypt</b> — Open to Full-time, Remote, and Freelance opportunities.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<div align="left" style="font-size: 15px; line-height: 1.7;">
+<ul>
+  <li>💻 Results-driven <b>Software Engineer</b> specializing in the .NET ecosystem (C#, ASP.NET Core) and Clean Architecture.</li>
+  <li>🏫 <b>Full-Stack .NET Instructor at Next Academy</b>, mentoring students in building scalable web applications and mastering RESTful APIs.</li>
+  <li>🛠️ Experienced in freelance backend development (Pulvent), refactoring legacy systems, optimizing SQL Server, and ensuring high-availability deployments.</li>
+  <li>🎓 Computer Science graduate from El Shorouk Academy with a strong foundation in software engineering principles.</li>
+  <li>📍 Based in <b>Cairo, Egypt</b> — Open to Full-time, Remote, and Freelance opportunities.</li>
+</ul>
+</div>
 
 ---
 
 ### 🚀 What I Do
 
-*   🧩 **Backend Engineering:** Architecting secure, scalable RESTful APIs using ASP.NET Core, EF Core, LINQ, and SOLID principles.
-*   🗄️ **Database Optimization:** Designing relational database schemas, query tuning, and performance indexing in SQL Server and PostgreSQL.
-*   👨‍🏫 **Technical Mentorship:** Delivering project-based curricula, conducting rigorous code reviews, and training developers in modern software workflows.
-*   🖥️ **Desktop & System Development:** Building robust desktop applications (such as healthcare management systems and enterprise tools) utilizing C# and Windows Forms.
+<div align="left" style="font-size: 15px; line-height: 1.7;">
+<ul>
+  <li>🧩 <b>Backend Engineering:</b> Architecting secure, scalable RESTful APIs using ASP.NET Core, EF Core, LINQ, and SOLID principles.</li>
+  <li>🗄️ <b>Database Optimization:</b> Designing relational database schemas, query tuning, and performance indexing in SQL Server and PostgreSQL.</li>
+  <li>👨‍🏫 <b>Technical Mentorship:</b> Delivering project-based curricula, conducting rigorous code reviews, and training developers in modern software workflows.</li>
+  <li>🖥️ <b>Desktop & System Development:</b> Building robust desktop applications (such as healthcare management systems and enterprise tools) utilizing C# and Windows Forms.</li>
+</ul>
+</div>
 
 ---
 
@@ -56,8 +56,12 @@
 
 ### 📌 Featured Projects
 
-*   🛒 **Zenon E-Commerce:** Architected a modular RESTful backend for product catalogs, inventory management, and order processing using ASP.NET Core and EF Core, featuring JWT & OAuth 2.0 authentication and PayPal webhooks integration.
-*   🏥 **Ministry of Health System:** Engineered a healthcare desktop application connected with NFC cards for reading patient medical profiles, synchronized with a robust SQL Server database and secure REST APIs.
+<div align="left" style="font-size: 15px; line-height: 1.7;">
+<ul>
+  <li>🛒 <b>Zenon E-Commerce:</b> Architected a modular RESTful backend for product catalogs, inventory management, and order processing using ASP.NET Core and EF Core, featuring JWT & OAuth 2.0 authentication and PayPal webhooks integration.</li>
+  <li>🏥 <b>Ministry of Health System:</b> Engineered a healthcare desktop application connected with NFC cards for reading patient medical profiles, synchronized with a robust SQL Server database and secure REST APIs.</li>
+</ul>
+</div>
 
 ---
 
@@ -74,4 +78,6 @@
 
 ---
 
-> *"Building reliable software through clean code, continuous learning, and practical problem-solving."*
+<div align="center">
+  <i>"Building reliable software through clean code, continuous learning, and practical problem-solving."</i>
+</div>
